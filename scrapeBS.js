@@ -119,10 +119,10 @@ function stop() {
     clearInterval(myInterval)
 }
 
-var FN_SCRAPE = "HOSE_26_10_2020"
-var FN_SCRAPE = "HOSE_BS_26_10_2020"
-var FN_GRAB_TODAY = "VN30F2010_2020_10_26"
-var FN_SAVE_IT = "2020_10_26"
+var FN_SCRAPE = "HOSE_30_10_2020"
+var FN_SCRAPE = "HOSE_BS_30_10_2020"
+var FN_GRAB_TODAY = "VN30F2010_2020_10_30"
+var FN_SAVE_IT = "2020_10_30"
 
 STEP_SAVE = 10;
 // myInterval = setInterval(scrapeHose, 2000)
